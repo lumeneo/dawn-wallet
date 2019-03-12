@@ -1,0 +1,12 @@
+moc.cpp
+moc.h
+moc_moc.h
+qml/InfoDialog.qml
+qml/ItemListTransaction.qml
+qml/OpenWallet.qml
+qml/PrivateKeysDialog.qml
+qml/SeedDialog.qml
+qml/Settings.qml
+qml/Wallet.qml
+qml/nestmain.qml
+rcc.cpp
